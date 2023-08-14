@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sinezys
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Jango
+- 
 
 <!---
 Sinezys/Sinezys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
